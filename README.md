@@ -1,2 +1,2 @@
 # Omaralkhanjy
-a database for a website.
+personality website
